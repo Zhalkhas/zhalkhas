@@ -1,83 +1,86 @@
-# 👋 Hey There, I’m Zhalgas!
+# Hi, I'm Zhalgas Khassenov 👋
 
-I'm a software engineer who's a bit of a jack-of-all-trades. I've got broad interests that stretch from compiler construction and web/mobile app development all the way to writing homebrew software for the Nintendo 3DS. If it's techy and fun, I'm probably poking at it.
+**Software Engineer | Backend Developer | Mobile App Architect**  
+---
 
-## The Academic Adventure
+### 👨‍💻 About Me
 
-**Nazarbayev University, Astana** (2017–2021)
-Bachelor of Computer Science
+I'm a versatile software engineer with experience across mobile, backend, embedded systems, and DevOps. I enjoy building robust, scalable systems—from secure smartphones to microservices powering modern platforms.
 
-* Algorithms & Database Systems (of course, what CS degree goes without it?)
-* Operating Systems & Compiler Construction (courses that I actually enjoyed)
-* GPU Programming (because who doesn’t love parallel speed‑demon math and proprietary Nvidia software)
- 
-## My “Day Job” Chronicles
+Currently, I'm focused on backend development in Go, cloud infrastructure, and exploring the world of functional and systems programming with tools like Nix, Gleam, and Zig.
 
-### 🛠️ Tsarka (2019–2021)
+---
 
-*Hardware Engineer & Full‑Stack Doer*
+### 💼 Experience
 
-* Designed RESTful backends in Go (Echo + Gorm + SQLite—just basics, but it works ¯\_(ツ)_/¯)
-* Wrote embedded C for STM32 microcontrollers (those tiny beasts pack a punch)
-* Went full circle: from PCB sketches to API routes
-* Participated in development of new Android smartphone, from hardware to software
+#### GoSolve — *Software Engineer* (Remote, Poland)  
+**Jan 2024 – Present**  
+- Developing microservices in Go.  
+- [REDACTED]
 
-### 🛒 ToleGO (2020–2021)
+#### Rise by Rootz — *Full-Stack Software Engineer* (Almaty, Kazakhstan)  
+**Mar 2023 – Oct 2023**  
+- Built a Flutter mobile app and Golang backend for a restaurant app.  
+- Integrated with iiko RMS for real-time menu and order tracking.  
+- Deployed on Google Cloud (Cloud Functions, MongoDB Atlas).
 
-*Full‑Stack Developer, Retail Reinventor*
+#### Buhta — *Cross-Platform Mobile Developer* (Almaty, Kazakhstan)  
+**Jul 2021 – Dec 2023**  
+- Architected and developed a cross-platform super-app using Flutter.  
+- Implemented offline-first features with SQLite.  
+- Used gRPC and Buf for backend communication.
 
-* Built a self‑checkout system: Flutter mobile, bespoke device UI, and Go backend (Gin + Gorm + PostgreSQL)
-* Deployed with Docker Compose—for that sweet, sweet scalability
-* Cut checkout times, boosted smiles
+#### ToleGO — *Software Engineer* (Astana, Kazakhstan)  
+**Sep 2020 – Sep 2021**  
+- Created an ultra-low-cost supermarket self-checkout system.  
+- Developed both hardware and full-stack software (mobile, display, web server).
 
-### 📊 Buhta.com (2021–2023)
+#### TSARKA — *Systems Engineer, R&D* (Astana, Kazakhstan)  
+**Aug 2019 – Jul 2021**  
+- Developed secure Android modules for a hardened smartphone.  
+- Set up GSM infrastructure for KazHackStan 2019 CTF.  
+- Designed STM32-based embedded hardware with companion apps.
 
-*Cross‑Platform Mobile Architect*
+---
 
-* Crafted a bookkeeping “superapp” in Flutter—offline‑first (SQLite caching FTW)
-* Hooked it up via gRPC to a Go backend, thanks to Buf‑generated bindings
-* Learned that “accounting automation” can actually be… fun?
+### 🎓 Education
 
-### 👗 Garderob.kz (2022–2023)
+**Nazarbayev University** — *Bachelor of Computer Science*  
+📍 Astana, Kazakhstan | 🗓 Aug 2017 – May 2021
 
-*Sustainable Fashion & Code Migrator*
+During my time at NU, I focused on a strong foundation in both theoretical and practical areas of computer science. Highlights include:
 
-* Developed a Flutter app for buying/selling clothes (chat included—because style chit‑chat matters)
-* Participated a migration from Node.js to Go (MongoDB + go‑chi = smooth sailing)
-* Discovered that circular economy looks great in code, too
+- **Algorithms & Database Systems** — naturally, no CS degree is complete without them.
+- **Operating Systems & Compiler Construction** — some of the most rewarding (and mind-bending) courses I took.
+- **GPU Programming** — because who doesn’t love NVIDIA CUDA APIs 🙃 
 
-### 🍽️ Rise by Rootz (2023)
+---
 
-*Full‑Stack Developer, Restaurant Innovator*
+### 🛠️ Tech Stack
 
-* Built a Flutter frontend tied to a Go REST API
-* Integrated iiko RMS so users could order, track, and drool over menus in real‑time
-* Launched on Google Cloud Functions + MongoDB Atlas—for zero‑downtime delight
+- **Languages:** Go, Dart, C, SQL  
+- **Frameworks/Tools:** Flutter, Docker, Terraform, Ansible  
+- **Databases:** PostgreSQL, SQLite, MongoDB  
+- **Infra:** AWS, Google Cloud, Apache Airflow  
+- **Special Interests:** Nix, Gleam (BEAM VM), Zig  
 
-### 🚀 Gosolve (2024–Present)
+---
 
-*Golang gRPC Microservices & Polyglot Tinkerer*
+### 🎮 Fun Stuff
 
-* Crafting Golang microservices with gRPC (ever seen a gopher that haven't done that?)
-* Dabbled in GraphQL schemas and resolvers using TypeScript
-* Spiced things up with Python scripts for data wrangling and automation
+- Enthusiast of Nintendo consoles  
+- Occasionally tinker with homebrew app development for them
 
-## My Tech Stack
+---
 
-My main languages are Go and Dart—they’re the tools I reach for every day. I’ve worked with MongoDB and PostgreSQL for databases, and used Redis for caching. For deployment and orchestration, I’m comfortable with Docker, Docker Compose, and Kubernetes.
+### 🧘‍♂️ When I Don’t Code
 
-Recently, I’ve started using NixOS for my personal setups, and I’m in the process of migrating my side projects to Nix-based deployments. It's been a fun challenge—and honestly, kind of addictive - after years of using Linux and manually managing dotfiles, configs, scripts with Makefiles, having everything centralized in one place feels like a blessing.
+(left empty - pun intended)
 
-I’ve also been exploring Zig because of its powerful metaprogramming and easy C bindings. And I’ve been digging into Gleam, a small functional language that runs on the BEAM (think: Elixir, Erlang)—it’s clean, fun, and feels like a fresh way to think about code.
+### 📫 Reach Me
 
-## When I’m Not Coding
+- 📧 [jalgas1998@gmail.com](mailto:jalgas1998@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kruzenshtern2/)  
+- 💻 [GitHub](https://github.com/Zhalkhas)
 
-(just empty, pun intended)
-
-## Let’s Team Up
-
-Got a project, an idea, or just want to swap war stories about gnarly bugs? Hit me up:
-
-* 📨 [jalgas1998@gmail.com](mailto:jalgas1998@gmail.com)
-* 🔗 [LinkedIn](https://linkedin.com/in/kruzenshtern2/)
-* 🐙 [GitHub](https://github.com/Zhalkhas)
+---
